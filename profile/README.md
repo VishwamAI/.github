@@ -37,9 +37,6 @@ Automates the job searching and application process.
 
 We welcome contributions! Please fork the repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
 
