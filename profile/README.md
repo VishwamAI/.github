@@ -6,7 +6,7 @@ Welcome to VishwamAI, a pioneering AI development initiative focused on harnessi
 
 ## Projects
 
-### Kasinadhsarma
+### Kasinadhsarma (ME)
 
 Kasinadhsarma is our flagship project under VishwamAI, aimed at developing cutting-edge AI models and applications. Below are some of the key projects and initiatives within Kasinadhsarma:
 
@@ -33,3 +33,4 @@ Kasinadhsarma is our flagship project under VishwamAI, aimed at developing cutti
 ## Conclusion
 
 At VishwamAI, we are committed to pushing the boundaries of what AI can achieve. Through our innovative projects and dedicated research, we aim to make significant contributions to the field of artificial intelligence and deliver practical solutions that have a positive impact on society. Join us on our journey as we explore the limitless possibilities of AI and shape the future together.
+
