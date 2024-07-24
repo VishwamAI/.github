@@ -7,7 +7,8 @@ Vishwam AI is an innovative organization dedicated to advancing artificial intel
 ## Organizational Structure
 
 ### 1. Executive Team
-- **CEO (Chief Executive Officer)**: Kasinadhsarma
+- **Founder : kasinadhsarma**
+- **CEO (Chief Executive Officer)**
 - **CTO (Chief Technology Officer)**
 - **COO (Chief Operating Officer)**
 - **CFO (Chief Financial Officer)**
