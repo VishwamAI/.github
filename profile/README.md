@@ -99,9 +99,9 @@ Vishwam AI is an innovative organization dedicated to advancing artificial intel
 
 ## Contact
 
-- **Website**: [kasinadhsarma.in](http://kasinadhsarma.in)
+- **Website**: [Vishwmai.kasinadhsarma.in](http://vishwamai.kasinadhsarma.in)
 - **GitHub**: [VishwamAI GitHub](https://github.com/VishwamAI)
-- **LinkedIn**: [Kasinadhsarma](https://www.linkedin.com/in/kasinadhsarma/)
+- **LinkedIn**: [VishwamAI LinkedIn](https://www.linkedin.com/company/vishwamai)
 
 For more information or collaboration inquiries, please contact us through our website or LinkedIn.
 
