@@ -11,6 +11,7 @@ Vishwam AI is an innovative organization dedicated to advancing artificial intel
 - **CTO (Chief Technology Officer)**
 - **COO (Chief Operating Officer)**
 - **CFO (Chief Financial Officer)**
+- **CSO (cheif Security Officer)**
 
 ### 2. Research and Development (R&D)
 - **Head of R&D**
