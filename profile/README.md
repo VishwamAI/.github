@@ -16,7 +16,7 @@ Vishwam AI is an innovative organization dedicated to advancing artificial intel
 4. **Automated Customer Support**
 5. **Healthcare AI Solutions**
 6. **Cyber City (AI-driven cybersecurity)**
-7. **Chip Development (GPU, CPU, TPU design)**
+7. **Chip Development XPU (GPU, CPU, TPU, NPU design)**
 8. **EvoOS (Automated AI-driven OS)**
 
 ## Vision and Goals
