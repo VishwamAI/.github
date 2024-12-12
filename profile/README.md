@@ -7,7 +7,7 @@ Vishwam AI is an innovative organization dedicated to advancing artificial intel
 ## Organizational Structure
 
 ### 1. Executive Team
-- **Founder : kasinadhsarma**
+- **Creator : kasinadhsarma**
 ## Key Projects
 
 1. **VishwamAI DeepMind**
