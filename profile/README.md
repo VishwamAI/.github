@@ -16,14 +16,14 @@ Vishwam AI is an innovative organization dedicated to advancing artificial intel
 4. **Automated Customer Support**
 5. **Healthcare AI Solutions**
 6. **Cyber City (AI-driven cybersecurity)**
-7. **Chip Development XPU (GPU, CPU, TPU, NPU design, QPU)**
+7. **Chip Development SPU (GPU, CPU, TPU, NPU design,XPU, QPU)**
 8. **EvoOS (Automated AI-driven OS)**
 
 ## Vision and Goals
 
 - **Innovation**: Continuously push the boundaries of technology.
 - **Security**: Enhance cybersecurity practices with advanced AI.
-- **Healthcare**: Develop AI solutions that improve healthcare outcomes.
+- **Healthcare**: Develop AI solutions that improve healthcare outcomes Project-P.
 - **Performance**: Design high-performance chips to power future technologies.
 - **Support**: Provide exceptional customer support with AI automation.
 
