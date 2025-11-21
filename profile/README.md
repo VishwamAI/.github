@@ -15,40 +15,8 @@
 ---
 
 ## **Key Projects**
-
-1. **VishwamAI DeepMind**
-   General-purpose foundation models for multi-modal intelligence.
-
-2. **Advanced Software Engineering (SWE) Agent**
-   Autonomous coding, debugging, and deployment agents for scalable software engineering.
-
-3. **AI-driven Data Analytics**
-   Insights and predictions powered by LLMs and dynamic data pipelines.
-
-4. **Automated Customer Support**
-   Natural language-based intelligent support systems for enterprises.
-
-5. **Healthcare AI Solutions (Project-P)**
-   Diagnostic tools, patient analytics, and medical AI services.
-
-6. **Project PBS (PreMature Baby Shell)**
-   A groundbreaking initiative to simulate an artificial uterus using AI, physics modeling, and TPU acceleration.
-   Focus areas include:
-
-   * Neonatal survival environment simulation
-   * ML-powered life support predictions
-   * Medical imaging and sensor integration
-   * Real-time adaptive control using JAX and Keras
-
-7. **Cyber City**
-   AI-driven threat intelligence, SOC automation, and adaptive defense frameworks.
-
-8. **Chip Development SPU**
-   Custom silicon for AI workloads — including CPU, GPU, TPU, NPU, XPU, and QPU architectures.
-
-9. **EvoOS**
-   AI-powered autonomous operating system capable of self-optimization and continuous evolution.
-
+* **PBAI(pikasu Bird Ai)**: An intelectiuval bird talk with us via virtual or iot device.
+* **PBS**: This is experimental for artificial Plesanta system and devlopment for give baby womb technology.
 ---
 
 ## **Vision & Goals**
